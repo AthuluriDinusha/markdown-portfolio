@@ -1,1 +1,1 @@
-Don't forget to include some alt-text.
+![Alt text](https://octodex.github.com/images/yaktocat.png)
